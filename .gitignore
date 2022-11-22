@@ -1,0 +1,4 @@
+.monlvenv
+__pycache__
+GloVe
+encoder/infersent2.pkl
